@@ -1,0 +1,38 @@
+ 1  git init
+    2  git init
+    3  git add All
+    4  git add All
+    5  git status
+    6  git add .
+    7  git init
+    8  git add .
+    9  git commit -m "dec 15 2024"
+   10  @DESKTOP-OTNS1K0 MINGW64 ~/Desktop/All (master)
+   11  $
+   12  git config --global user.email "you@example.com"
+   13  git config --global user.email "you@example.com"
+   14  git config --global user.email "meaza.ketaw@yahoo.com"
+   15  git config --global user.name "try-gi"
+   16  git remote add origin
+   17  git push -u origin main
+   18  git init
+   19  git add .
+   20  git commit -m "dec 15 2024"
+   21  git remote add origin html https://github.com/try-gi/html
+   22  git remote add origin https://github.com/try-gi/html
+   23  git push -u origin main
+   24  git push -u origin
+   25  git push -u Origin main
+   26  git push -u origin
+   27  git push --set-upstream origin master
+   28  git push -u origin
+   29  git commit -m "v2"
+   30  git push
+   31  git push origin main
+   32  git push
+   33  git add .
+   34  git push
+   35  git push origin main
+   36  git commit -m "v2"
+   37  git push
+   38  history
